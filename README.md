@@ -1,4 +1,6 @@
-## # Draft Elicitation 1.0  ##
+# Draft Elicitation 1.0
+
+## # ##
 
 ```
 what are each branch of government and how does a representative political structure facilitate deliberations - and how can we create a deliberative system - that is no longer representative but deliberative. Essentially a conversion model from representative democracy do direct democracy, using web3 technology, effectively, decentralizing society.
